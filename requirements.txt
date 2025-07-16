@@ -1,0 +1,9 @@
+nselib
+fastapi
+numpy
+pandas
+pandas_market_calendars
+plotly
+nbformat
+papermill
+

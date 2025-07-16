@@ -1,0 +1,10 @@
+# torch
+pandas 
+numpy
+plotly
+scikit-learn
+nbformat
+xgboost
+matplotlib
+socketio
+rich
